@@ -2,7 +2,8 @@
 
 * * *
 
-![bee106f0c7937854ca01e32d33fdc4f8.png](:/026ef54e44234f74ad84f6207077a086)
+![image](https://github.com/user-attachments/assets/f6e1cc6d-ab54-44b8-a17a-0ac312ea2e9c)
+
 
 ## **Introduction**
 
@@ -30,7 +31,8 @@ By isolating the lab environment using internal and NAT networks, we ensure safe
 1.  First off all you need to make sure that you've downloaded Oracle [VirtualBox](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0FpYjBCVU11cGU0UVVBLVBCejlwb0ltakd5QXxBQ3Jtc0ttbk9sbkZQb1FObzNWdmZLa2ctamQ2WEdjMDJpVS03YmJmVzFiZG5aLUY2Z2c5eC0yVFhhOWQtVng3akpLaWpiWXBZcHVrbWYzVlQzVHBLUlNXM1VZc0M4UmVzYXkyM2thdGViaVc5UE81anZJbWl1VQ&q=https%3A%2F%2Fwww.virtualbox.org%2Fwiki%2FDownloads&v=MHsI8hJmggI).
 2.  Then Create a new virtual machine in your VirtualBox.
 
-![6d9852694d26ee60c977c52dadd19e64.png](:/75c2db66a684478eb72d53d7028eb223)
+![image](https://github.com/user-attachments/assets/f581bd17-9f90-4a33-9352-60683b1b6eee)
+
 
 3\. Assign two network interface cards (NICs) to the VM. One for Network Address Translation (NAT) to allow internet access and one for Internal Networking, isolating domain traffic between your VMs.
 
